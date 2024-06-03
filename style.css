@@ -1,0 +1,16 @@
+:root {
+    --primary: #0C0C0C;
+    --secondary: #481E14;
+    --tertiary: #9B3922;
+    --quaternary: #F2613F;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.text {
+    color: var(--primary);
+}
